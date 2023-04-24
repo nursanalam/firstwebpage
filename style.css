@@ -1,0 +1,75 @@
+#menu
+{
+height: 50px;
+background-color: gold;
+padding: 10px 0px;
+
+
+}
+ul{
+    list-style: none;
+}
+#menu ul li
+{
+     float: left;
+    padding: 0px 20px;
+}
+.parallax
+{
+
+    background-size: cover;
+    background-image: background1.jpg;
+
+}
+
+.tui
+{
+    height: 500px;
+    width:600px ;
+    border: 2px #202020 ;
+    border-radius: 15px;
+}
+.ali
+{
+
+    color: blue;
+    size: 10px;
+    text-align-last: center;
+
+}
+.bali
+{
+
+    color: blue;
+    
+    background-color: gold;
+    
+     text-align-last: center;
+     border: 0cqh;
+     margin: 0ch;
+}
+.kalu
+{
+    color: blue;
+    height: 50px;
+    background-color: gold;
+     padding: 10px 0px;
+     text-align-last: center;
+}
+.bbp
+{
+    color: blue;
+    height: 50px;
+    background-color: gold;
+     padding: 10px 0px;
+     text-align-last: center;
+}
+#alam
+{
+
+    background-color: lightgrey;
+    width:300px;
+    border: 10px solid green;
+    padding: 20px;
+    margin: 10px;
+}
